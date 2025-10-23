@@ -1,0 +1,5 @@
+{
+  "trabalho": ["reunião", "relatório", "projeto", "prazo"],
+  "lazer": ["cinema", "praia", "festa", "jogo"],
+  "estudo": ["prova", "faculdade", "tarefa", "aula"]
+}
